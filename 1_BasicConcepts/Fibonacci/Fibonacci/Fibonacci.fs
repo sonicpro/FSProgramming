@@ -6,6 +6,6 @@
 
 [<EntryPoint>]
 let main argv =
-  printf "fib 10: %i" (fib 10)
+  printf "fib 4: %i" (fib 4)
   printf "fib -10: %i" (fib -10)
   0
