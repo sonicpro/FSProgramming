@@ -1,8 +1,8 @@
 type Proposition =   // type with possible expressions ... note recursion for all expressions except True
   | True             // essentially this is defining boolean logic
   | Not of Proposition
-  | And of Proposition * Proposition
-  | Or of Proposition * Proposition
+  | And of Proposition * Proposition  // Proposition * Proposition means a tuple that
+  | Or of Proposition * Proposition  // consists of two propositions.
 
 let rec eval x =
   match x with
