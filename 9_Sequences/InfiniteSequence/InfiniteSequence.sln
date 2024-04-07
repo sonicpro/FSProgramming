@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InfiniteSequence", "InfiniteSequence\InfiniteSequence.fsproj", "{31081194-143C-4F02-8B20-E42D01105B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31081194-143C-4F02-8B20-E42D01105B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31081194-143C-4F02-8B20-E42D01105B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31081194-143C-4F02-8B20-E42D01105B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31081194-143C-4F02-8B20-E42D01105B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B68F287-3D35-42F9-8A8D-4FB0D06A2285}
+	EndGlobalSection
+EndGlobal
